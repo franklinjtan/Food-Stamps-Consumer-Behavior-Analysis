@@ -25,6 +25,17 @@ These insights highlight the divergent consumption patterns, value perceptions, 
 5. For hedonic food, craving differs between SNAP and non-SNAP households. SNAP households report higher craving levels for both hedonic and utilitarian products compared to non-SNAP households.
 6. The relationship between craving and unhealthiness perception for hedonic food varies for SNAP and non-SNAP households. Craving has a stronger negative correlation with unhealthiness perception among SNAP households compared to non-SNAP households.
 
+# Analysis
+![Figure1](/images/Figure1.jpeg)
+![Figure2](/images/Figure2.jpeg)
+![Figure3](/images/Figure3.jpeg)
+![Figure4](/images/Figure4.jpeg)
+![Figure5](/images/Figure5.jpeg)
+![Figure6](/images/Figure6.jpeg)
+![Figure7](/images/Figure7.jpeg)
+![Figure8](/images/Figure8.jpeg)
+![Figure9](/images/Figure9.jpeg)
+
 # Works Cited
 * Bushong, Benjamin, et al. “Pavlovian Processes in Consumer Choice: The Physical Presence of a Good Increases Willingness-to-Pay.” American Economic Review, vol. 100, no. 4, Sept. 2010, pp. 1556–71. EBSCOhost, https://doi-org.proxy.library.cornell.edu/10.1257/aer.100.4.1556.
 * Fitzsimons, Grainne M., et al. “Automatic Effects of Brand Exposure on Motivated Behavior: How Apple Makes You ‘Think Different.’” Journal of Consumer Research, vol. 35, no. 1, June 2008, pp. 21–35. EBSCOhost, https://doi-org.proxy.library.cornell.edu/10.1086/527269.
