@@ -27,6 +27,7 @@ These insights highlight the divergent consumption patterns, value perceptions, 
 
 # Analysis
 ![Figure1](/images/Figure1.png)
+In summary, the results indicate that SNAP and non-SNAP households differ in terms of both the number and value of the food products they purchase. SNAP households tend to purchase a higher number of hedonic products but a lower number of utilitarian products compared to non-SNAP households. Additionally, SNAP households have a higher average value of both hedonic and utilitarian products compared to non-SNAP households. These findings provide insights into the divergent preferences and purchasing patterns of SNAP and non-SNAP households when it comes to food choices.
 ![Figure2](/images/Figure2.png)
 ![Figure3](/images/Figure3.png)
 ![Figure4](/images/Figure4.png)
