@@ -26,15 +26,15 @@ These insights highlight the divergent consumption patterns, value perceptions, 
 6. The relationship between craving and unhealthiness perception for hedonic food varies for SNAP and non-SNAP households. Craving has a stronger negative correlation with unhealthiness perception among SNAP households compared to non-SNAP households.
 
 # Analysis
-![Figure1](/images/Figure1.jpeg)
-![Figure2](/images/Figure2.jpeg)
-![Figure3](/images/Figure3.jpeg)
-![Figure4](/images/Figure4.jpeg)
-![Figure5](/images/Figure5.jpeg)
-![Figure6](/images/Figure6.jpeg)
-![Figure7](/images/Figure7.jpeg)
-![Figure8](/images/Figure8.jpeg)
-![Figure9](/images/Figure9.jpeg)
+![Figure1](/images/Figure1.png)
+![Figure2](/images/Figure2.png)
+![Figure3](/images/Figure3.png)
+![Figure4](/images/Figure4.png)
+![Figure5](/images/Figure5.png)
+![Figure6](/images/Figure6.png)
+![Figure7](/images/Figure7.png)
+![Figure8](/images/Figure8.png)
+![Figure9](/images/Figure9.png)
 
 # Works Cited
 * Bushong, Benjamin, et al. “Pavlovian Processes in Consumer Choice: The Physical Presence of a Good Increases Willingness-to-Pay.” American Economic Review, vol. 100, no. 4, Sept. 2010, pp. 1556–71. EBSCOhost, https://doi-org.proxy.library.cornell.edu/10.1257/aer.100.4.1556.
